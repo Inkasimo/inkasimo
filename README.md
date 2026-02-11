@@ -23,6 +23,15 @@ https://github.com/inkasimo/scRNAseq-pbmc-workflow
 
 ---
 
+### Selected Publications
+```text
+Inkala, S., Fratello, M., del Giudice, G. et al. MUUMI: an R package for statistical and network-based meta-analysis for multi-omics data integration. BMC Bioinformatics (2026). https://doi.org/10.1186/s12859-026-06394-3
+```
+
+Repository: https://github.com/fhaive/muumi
+
+---
+
 ## Focus Areas
 
 - Systems biology & network inference  
