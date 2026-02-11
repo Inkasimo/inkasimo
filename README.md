@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I’m Simo
 
-<!--
-**Inkasimo/inkasimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior computational biologist working in systems biology and drug discovery, with a focus on network-based modelling, transcriptomics, and reproducible computational workflows.
 
-Here are some ideas to get you started:
+I design and implement analysis pipelines for multi-omics integration, network inference, and differential analysis across conditions and cohorts, with emphasis on robustness, reproducibility, and biological interpretability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Selected Technical Work
+
+### scRNAseq-pbmc-workflow
+Production-style RNA-seq workflow (Docker + Snakemake + explicit Python CLI wrapper) demonstrating:
+
+- FASTQ-level QC and reference preparation  
+- STARsolo alignment  
+- Donor-aware differential analysis (DESeq2 + TOST)  
+- Co-expression and network-based downstream analysis  
+- Explicit execution control via wrapper interface  
+- Fully containerized, reproducible execution  
+
+Repository:  
+https://github.com/inkasimo/scRNAseq-pbmc-workflow
+
+---
+
+## Focus Areas
+
+- Systems biology & network inference  
+- Transcriptomics and multi-omics integration  
+- Reproducible computational pipelines (Snakemake, Docker)  
+- Statistical modelling & differential analysis  
+- Biologically interpretable modelling for drug discovery  
+
+---
+
+## Links
+
+- ORCID: https://orcid.org/0009-0002-2091-8436  
+- LinkedIn: https://www.linkedin.com/in/simo-inkala/
