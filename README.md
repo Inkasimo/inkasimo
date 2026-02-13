@@ -1,8 +1,10 @@
 # Hi, I’m Simo
 
-Senior computational biologist working in systems biology and drug discovery, with a focus on network-based modelling, transcriptomics, and reproducible computational workflows.
+Senior computational biologist working at the intersection of systems biology, transcriptomics, and drug discovery.
 
-I design and implement analysis pipelines for multi-omics integration, network inference, and differential analysis across conditions and cohorts, with emphasis on robustness, reproducibility, and biological interpretability.
+I design and implement reproducible computational workflows for multi-omics integration, network inference, and mechanism-driven data interpretation. My work focuses on extracting robust biological signal from high-dimensional datasets and translating systems-level insights into drug prioritisation and biomarker strategies.
+
+I am also a licensed pharmacist (Finland), with clinical and pharmacological background that informs my approach to systems pharmacology and translational modelling.
 
 ---
 
@@ -34,11 +36,11 @@ Repository: https://github.com/fhaive/muumi
 
 ## Focus Areas
 
-- Systems biology & network inference  
-- Transcriptomics and multi-omics integration  
-- Reproducible computational pipelines (Snakemake, Docker)  
-- Statistical modelling & differential analysis  
-- Biologically interpretable modelling for drug discovery  
+-Systems biology and network-based modelling
+-Multi-omics data integration and transcriptomics
+-Systems pharmacology and mechanism--driven drug discovery
+-Reproducible computational workflows (Snakemake, Docker, HPC)
+-Biologically interpretable modelling and validation strategies
 
 ---
 
