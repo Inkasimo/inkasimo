@@ -38,7 +38,7 @@ Repository: https://github.com/fhaive/muumi
 
 - Systems biology and network-based modelling
 - Multi-omics data integration and transcriptomics
-- Systems pharmacology and mechanism--driven drug discovery
+- Systems pharmacology and mechanism driven drug discovery
 - Reproducible computational workflows (Snakemake, Docker, HPC)
 - Biologically interpretable modelling and validation strategies
 
