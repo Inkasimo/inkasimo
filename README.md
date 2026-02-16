@@ -4,7 +4,7 @@ Senior computational biologist working at the intersection of systems biology, t
 
 I design and implement reproducible computational workflows for multi-omics integration, network inference, and mechanism-driven data interpretation. My work focuses on extracting robust biological signal from high-dimensional datasets and translating systems-level insights into drug prioritisation and biomarker strategies.
 
-I am also a licensed pharmacist (Finland), with clinical and pharmacological background that informs my approach to systems pharmacology and translational modelling.
+I am a licensed pharmacist in Finland with clinical and pharmacological training that informs my systems pharmacology and translational modelling work. I also bring a background in evolutionary population ecology, shaping my perspective on biological variation and selection.
 
 ---
 
