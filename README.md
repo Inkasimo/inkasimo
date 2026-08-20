@@ -57,10 +57,10 @@ Repository: https://github.com/fhaive/muumi
 
 - Systems biology and network-based modelling
 - Multi-omics data integration and transcriptomics
+- Single-cell transcriptomics and multiome (scRNA + scATAC) analysis
 - Systems pharmacology and mechanism driven drug discovery
 - Reproducible computational workflows (Snakemake, Docker, HPC)
-- Biologically interpretable modelling and validation strategies
-
+- Benchmarking, confound control and validation strategy
 ---
 
 ## Links
