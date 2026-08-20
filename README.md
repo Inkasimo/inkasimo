@@ -10,6 +10,25 @@ I am a licensed pharmacist in Finland with clinical and pharmacological training
 
 ## Selected Technical Work
 
+### multiome-link-ranking
+
+Reproducible benchmark for single-cell multiome peak–gene link scoring
+(Docker + Snakemake + Python CLI wrapper):
+
+- Paired scRNA + scATAC processing (Seurat/Signac), LinkPeaks candidate generation
+- Eleven interpretable score modes over one fixed candidate universe
+- SCENT as an external comparator, chromosome-sharded across 22 autosomes
+- Explicit proximity controls: distance-only baseline, distance-matched
+  stratification, proximal-removal thresholds
+- Containerized image on GHCR, Zenodo-archived, verified by a clean-clone rerun
+
+Reports a partly negative result: apparent ranking gains are substantially
+proximity artifacts, and the benchmark is framed as a diagnostic rather than a
+method.
+
+Repository: https://github.com/Inkasimo/multiome-link-ranking
+DOI: https://doi.org/10.5281/zenodo.22032459
+
 ### scRNAseq-pbmc-workflow
 Production-style RNA-seq workflow (Docker + Snakemake + explicit Python CLI wrapper) demonstrating:
 
